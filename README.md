@@ -1,6 +1,6 @@
 # Hide Github Reactions
 
-### What it does
+## What it does
 
 It hides GitHub reactions on commentaries so they don't sway your judgment on the text itself. Everybody is
 still free to use them (instead of leaving annoying `+1` comments), it's just you won't see them.
@@ -17,13 +17,13 @@ After:
 <img src="https://user-images.githubusercontent.com/50968528/94200673-739d7c00-fec3-11ea-9951-da2313bc6dd7.png">
 </p>
 
-### Installation
+## Installation
 
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-github-reactions/)
 
-#### License
+<br>
 
-<sub>
+### License
 
 The `icons/closed-eye-64.png` icon is licensed under
 [CC BY-NC 3.0 license](https://creativecommons.org/licenses/by-nc/3.0/). It's been created by [Laura Reen](https://www.iconfinder.com/laurareen).
@@ -36,4 +36,4 @@ Everything else in this repository is dual-licensed under either of
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in this crate by you, as defined in the Apache-2.0 license, shall
 be dual licensed as above, without any additional terms or conditions.
-</sub>
+
